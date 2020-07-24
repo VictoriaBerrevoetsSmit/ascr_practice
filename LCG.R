@@ -43,3 +43,5 @@ ICDF_norm <- function(n){
 }
 hist(ICDF_norm(100000))
 
+
+
